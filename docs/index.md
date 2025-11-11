@@ -1,6 +1,6 @@
 ## rhdh-techdocs
 
-Contains the techdocs for rhdh
+
 
 ## Getting started
 
