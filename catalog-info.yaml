@@ -10,4 +10,3 @@ spec:
   type: documentation
   lifecycle: experimental
   owner: "user:default/djanickova"
-  scaffoldedFrom: template:default/documentation-template
